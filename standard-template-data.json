@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-11-26T09:24:02.853854262Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-11-26T09:28:44.650275108Z",
     "templateType": "trip_d2",
     "propertyId": "77dc5ed9-0e0f-4289-9b89-98f945aa17aa",
     "homepageId": "01a216db-f1c2-72d5-bec9-374ddd084823"
@@ -1615,8 +1615,18 @@
       },
       "theme": {
         "font": {
-          "koMain": null,
-          "koSub": null,
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
           "enMain": null
         },
         "color": null
